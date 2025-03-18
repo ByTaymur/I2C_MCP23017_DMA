@@ -192,9 +192,7 @@ Ayrıntılı hata mesajları için UART çıkışını (115200 baud) kontrol edi
 I2C hatlarında uygun pull-up dirençlerini doğrulayın
 Doğru I2C adresini (A0=A1=A2=GND ile varsayılan 0x20) onaylayın
 
-Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
-Teşekkürler
+
 
 STM32F4 HAL kütüphaneleri için STMicroelectronics
 MCP23017 dokümantasyonu için Microchip
